@@ -40,3 +40,8 @@ add security
 ### Logging level
 Trace > Debug > Info > Warn > Error > Fatal > Off
 
+# Primary
+when you set primary the only that bean be activated
+# Qualifier : you can set the component you want to call
+### even you set the lazy : the qualifier will be activated
+
