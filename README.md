@@ -45,3 +45,7 @@ when you set primary the only that bean be activated
 # Qualifier : you can set the component you want to call
 ### even you set the lazy : the qualifier will be activated
 
+# Singleton & Prototype
+Singleton : single shared bean, Default   // @Scope(ConfigurableBeanFactory.SCOPE_SINGLETON)   
+Prototype : use different bean //@Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
+
