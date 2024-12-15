@@ -64,3 +64,5 @@ help begin automatically
 # @Repository
 specialized annotation for respositories / supports component scanning / Translate JDBC exceptions
 
+# JPQL
+### ALl JPQL syntax is not database table > based on entity name and entity fields
