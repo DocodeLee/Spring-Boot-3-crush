@@ -54,3 +54,8 @@ if you use dependency JDBC helps you to contact with sql database
 # Entity Manager & JpaRepository
 If you need low level control and flexibility > Entity Manager    
 High level control and flexibility > JpaRepository
+
+# DAO : Data Access Objects
+
+# Interface VS Abstract Class
+Interface has only abstract class  <> Abstract Class has several abstract class (mixed)
