@@ -59,3 +59,5 @@ High level control and flexibility > JpaRepository
 
 # Interface VS Abstract Class
 Interface has only abstract class  <> Abstract Class has several abstract class (mixed)
+# @Transactional
+help begin automatically
