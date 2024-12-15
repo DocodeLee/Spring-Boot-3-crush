@@ -66,3 +66,13 @@ specialized annotation for respositories / supports component scanning / Transla
 
 # JPQL
 ### ALl JPQL syntax is not database table > based on entity name and entity fields
+
+# Spring configuration
+## spring.jpa.hibernate.ddl-auto=PROPERTY-VALUE  
+none : no action   
+create only :data tables only created   
+drop: drop tables   
+create : drop > create   
+create drop : drop > create > shutdown > drop    
+validate: validation   
+update : update
