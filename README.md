@@ -61,3 +61,6 @@ High level control and flexibility > JpaRepository
 Interface has only abstract class  <> Abstract Class has several abstract class (mixed)
 # @Transactional
 help begin automatically
+# @Repository
+specialized annotation for respositories / supports component scanning / Translate JDBC exceptions
+
