@@ -49,3 +49,8 @@ when you set primary the only that bean be activated
 Singleton : single shared bean, Default   // @Scope(ConfigurableBeanFactory.SCOPE_SINGLETON)   
 Prototype : use different bean //@Scope(ConfigurableBeanFactory.SCOPE_PROTOTYPE)
 
+# MySQL
+if you use dependency JDBC helps you to contact with sql database
+# Entity Manager & JpaRepository
+If you need low level control and flexibility > Entity Manager    
+High level control and flexibility > JpaRepository
