@@ -78,6 +78,7 @@ validate: validation
 update : update
 
 # REST > Representational State Transfer
-# JSON > Javascript Object Notation
+# JSON > Javascript Object Notation : Lightweight data interchange format
+
 
 
