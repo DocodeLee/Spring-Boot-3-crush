@@ -87,3 +87,7 @@ update : update
 converting JSON data to a JAVA POJO   > Mapping , Serialization , Marshalling   
 ### Jackson Data Binding
 When we make service the data is stored as JAVA POJO (palin old java object) but jackson convert this to JSON
+### POJO > fields and getters and setters
+# Exception Handling
+if we get Bad data > throw exception > exception handler   
+### Create a custom error response class > create exception class > Update Rest Service to throw Exception
