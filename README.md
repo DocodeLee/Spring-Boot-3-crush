@@ -83,3 +83,7 @@ update : update
 
 ![Screenshot 2024-12-16 at 21 10 25](https://github.com/user-attachments/assets/63785091-d8e3-4bc1-ad33-29b0e63931c0)
 
+# JSON data binding
+converting JSON data to a JAVA POJO   > Mapping , Serialization , Marshalling   
+### Jackson Data Binding
+will call appropriate getter and setter methods
