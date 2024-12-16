@@ -86,4 +86,4 @@ update : update
 # JSON data binding
 converting JSON data to a JAVA POJO   > Mapping , Serialization , Marshalling   
 ### Jackson Data Binding
-will call appropriate getter and setter methods
+When we make service the data is stored as JAVA POJO (palin old java object) but jackson convert this to JSON
