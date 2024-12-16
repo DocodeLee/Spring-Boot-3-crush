@@ -90,4 +90,5 @@ When we make service the data is stored as JAVA POJO (palin old java object) but
 ### POJO > fields and getters and setters
 # Exception Handling
 if we get Bad data > throw exception > exception handler   
-### Create a custom error response class > create exception class > Update Rest Service to throw Exception
+### Create a custom error response class > create exception class > Update Rest Service to throw Exception > Add exception handler method
+
