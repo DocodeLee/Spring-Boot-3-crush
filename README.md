@@ -76,3 +76,6 @@ create : drop > create
 create drop : drop > create > shutdown > drop    
 validate: validation   
 update : update
+
+# REST > Representational State Transfer
+
