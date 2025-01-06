@@ -92,3 +92,6 @@ When we make service the data is stored as JAVA POJO (palin old java object) but
 if we get Bad data > throw exception > exception handler   
 ### Create a custom error response class > create exception class > Update Rest Service to throw Exception > Add exception handler method
 
+# SPRING HOMEPAGE
+ make controller > get mapping, set url > make html > if you need setting configuration
+
