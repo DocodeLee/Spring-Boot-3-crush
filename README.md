@@ -95,3 +95,9 @@ if we get Bad data > throw exception > exception handler
 # SPRING HOMEPAGE
  make controller > get mapping, set url > make html > if you need setting configuration
 
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/6427a00c-6c8c-4949-869b-8af7112cd476" />
+
+
+
+<img width="1235" alt="image" src="https://github.com/user-attachments/assets/468496aa-3645-47a9-8841-76e68c647293" />
+made a spring boot crud homepage > you can do all crud actions
